@@ -1,0 +1,2 @@
+# corejavapractice
+Core Java practices
